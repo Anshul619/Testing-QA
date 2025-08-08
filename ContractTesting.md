@@ -1,0 +1,2 @@
+# Contract testing
+- [Contract testing](https://pactflow.io/blog/what-is-contract-testing/) is a methodology for ensuring that two separate systems (such as two microservices) are compatible and can communicate with one other. 
