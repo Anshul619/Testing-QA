@@ -1,0 +1,3 @@
+# End-2-End Testing
+- [End-to-end (E2E) testing](https://katalon.com/resources-center/blog/end-to-end-e2e-testing) is a software testing method that validates the complete flow of an application, from the user interface down to the database to ensure everything works together as expected. 
+- It simulates real-world user scenarios to confirm that every integrated piece of the system functions correctly from start to finish.

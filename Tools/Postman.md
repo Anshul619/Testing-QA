@@ -1,3 +1,5 @@
+# Postman Flows
+- Its important in event-driven/serverless architecture, saves lot of time in integration tests.
 
 # Postman API testing using NewMan Plugin in Jenkins
 - We can install [newman plugin](https://www.tutorialspoint.com/postman-with-newman-and-jenkins) in the jenkins.

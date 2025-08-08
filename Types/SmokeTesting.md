@@ -1,0 +1,2 @@
+# Smoke Testing
+- [Smoke testing](https://en.wikipedia.org/wiki/Smoke_testing_(software)) is a preliminary software testing method used to determine if a new software build is stable and ready for further, more in-depth testing.
